@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I´m passionate about technology and innovation<br>👯 I’m looking to collaborate with other developers<br>🤝 I’m university student  <br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React<br><br>Contact me: lucas19costamagna@gmail.com
+🔭 I´m passionate about technology and innovation<br>👯 I’m currently working with other developers<br>🤝 I’m Technical Software Developer <br>🌱 I’m currently working width MERN Stack<br>💬 Ask me about React<br><br>Contact me: lucas19costamagna@gmail.com
 
 
 ## 🌐 Socials:
